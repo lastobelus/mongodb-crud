@@ -10,4 +10,6 @@ class Student
     presence: true,
     uniqueness: true
 
+  index({ email: 1 }, { unique: true})
+
 end
