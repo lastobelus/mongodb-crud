@@ -6,6 +6,8 @@ gem 'rails', '4.2.5.2'
 
 # Use MongoDB
 gem 'mongoid', '~> 5.1.0'
+# Use bootstrap
+gem 'bootstrap-sass', '~> 3.3.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
